@@ -1,2 +1,2 @@
 # PruebasHTML
-Proyectos HTML usados para practicar
+Proyectos HTML con CSS usados para practicar
